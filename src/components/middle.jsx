@@ -72,7 +72,7 @@ function Middle(){
              <div className="top">
                 {teacher==="Mr.Haruda"?<>
                 <div className="user">
-                    <img src="https://static.wikia.nocookie.net/doraemon/images/e/e7/HAYGP_185.JPG/revision/latest?cb=20200428120627&path-prefix=en" alt="" />
+                    <img src="https://i.ytimg.com/vi/zLqCDOg9JDE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG2BIACwAKKAgwIABABGE0gZShlMA8=&rs=AOn4CLCMky1kYRA986UMpUx05C_je1VCrA" alt="" />
                     <div className="text">
                     <span>Mr. Haruda</span>
                     <p>Nobita’s Teacher.</p>
