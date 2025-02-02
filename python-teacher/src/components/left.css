@@ -1,0 +1,31 @@
+.left_continer{
+    flex: 1;
+    background-color: rgba(81, 201, 245, 0.492);
+    border-left: 1px solid #52d5f3bf;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    border-top-left-radius:0 ;
+    border-bottom-left-radius: 0;
+    font-family: 'Caveat', serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+
+   .heading{
+    border-bottom: 2px solid #888;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    font-family: 'Fjalla One', sans-serif;
+
+   }
+
+   .content{
+    overflow-y: scroll;
+    text-align: justify;
+    padding: 10px 15px;
+   }
+
+}

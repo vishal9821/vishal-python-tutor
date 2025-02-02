@@ -1,0 +1,32 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../src/assets/body-bg.jpg");
+  object-fit: cover;
+  height: 100vh;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.container{
+    padding: 0;
+    margin: 0;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   height: 85vh;
+   width: 80vw;
+   backdrop-filter: blur(19px) saturate(180deg);
+   border-radius: 15px;
+   background-image:linear-gradient(to right ,rgba(248, 239, 75, 0.359), #2f70b4c8) , url(../src/assets/home-bg.jpg);
+   background-size:cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   border: 0.2px solid #fff;
+}
+
+
