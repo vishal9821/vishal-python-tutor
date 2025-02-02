@@ -3,7 +3,7 @@ function Right(proms){
     return(
         <div className="right_continer">
             <div className="top">
-                <img src="../src/assets/avatar.png" alt="User_Image"/>
+                <img src="https://img.icons8.com/?size=100&id=12437&format=png&color=000000" alt="User_Image"/>
                 <h1 className="userDetails">Username</h1>
             </div>
             <div className="middle">

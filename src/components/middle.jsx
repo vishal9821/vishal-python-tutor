@@ -72,7 +72,7 @@ function Middle(){
              <div className="top">
                 {teacher==="Mr.Haruda"?<>
                 <div className="user">
-                    <img src="../src/assets/teacher-1.jpg" alt="" />
+                    <img src="https://static.wikia.nocookie.net/doraemon/images/e/e7/HAYGP_185.JPG/revision/latest?cb=20200428120627&path-prefix=en" alt="" />
                     <div className="text">
                     <span>Mr. Haruda</span>
                     <p>Nobita’s Teacher.</p>
@@ -80,13 +80,13 @@ function Middle(){
                     <span className="changeteacher" onClick={toshinchan}>(Change Teacher !)</span>
                 </div>
                 <div className="icons">
-                    <img src="../src/assets/info.png" alt="" />
+                    <img src="https://img.icons8.com/?size=100&id=77&format=png&color=000000" alt="" />
                     <div className="about">
                     Hello, students! I am Mr. Haruda, your AI tutor. I guess you already know me! As a strict yet dedicated teacher, I believe in discipline, hard work, and never giving up on my students—no matter how mischievous they are! I will guide you through learning with patience, ensuring that even if you struggle, you always improve. With me, you’ll develop strong fundamentals and responsibility while having fun!
                    </div>
                 </div></>:<>
                 <div className="user">
-                    <img src="../src/assets/teacher-2.jpg" alt="" />
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSMwrxOST-wce6NwJVweb7f9X8J_7aU80U3w&s" alt="" />
                     <div className="text">
                     <span>Principal Enchou</span>
                     <p>Shinchan’s Principal</p>
@@ -94,7 +94,7 @@ function Middle(){
                     <span className="changeteacher" onClick={tonobita}>(Change Teacher !)</span>
                 </div>
                 <div className="icons">
-                    <img src="../src/assets/info.png" alt="" />
+                    <img src="https://img.icons8.com/?size=100&id=77&format=png&color=000000" alt="" />
                     <div className="about">
                     Hey there, kids! I am Principal Enchou, your AI tutor. I bet you know me! Unlike Mr. Haruda, I have a fun and friendly approach to teaching. Learning should be exciting, and I make sure you enjoy every lesson! With wisdom and humor, I’ll help you understand complex topics in a simple way. Let’s laugh, learn, and grow together!
                    </div>
